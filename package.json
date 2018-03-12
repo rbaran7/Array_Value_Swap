@@ -1,7 +1,7 @@
 {
   "name": "switchlist",
   "version": "1.0.0",
-  "description": "A simple app that will rearrange the order of an array by take two values to swap from the user.",
+  "description": "A fun and simple Node.js application that creates a user defined list of 10 items and swaps two values based off user specification.",
   "main": "swap.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
