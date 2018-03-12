@@ -6,7 +6,7 @@ In order to run the program:
 
 2. Clone this repo to a new fresh directory.
 
-3. From the terminal type:
+3. From the projects base directory, in the terminal type: 
             
             node swap.js
             
