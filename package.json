@@ -1,0 +1,11 @@
+{
+  "name": "switchlist",
+  "version": "1.0.0",
+  "description": "A simple app that will rearrange the order of an array by take two values to swap from the user.",
+  "main": "swap.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Roman Baran",
+  "license": "ISC"
+}
