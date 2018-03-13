@@ -1,11 +1,13 @@
-import React from "react";
-import ReactDOM from "react-dom";
+import React from 'react';
+import ReactDOM from 'react-dom';
+import AddListValue from './addListValue';
 
-let destination = document.querySelector("#container");
+var destination = document.querySelector("#container");
 
 ReactDOM.render(
     <div>
-        <p>Here we go!</p>
+        <AddListValue />     
     </div>,
+    
     destination
 );
